@@ -26,7 +26,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gautambisoi&show_icons=true&locale=en&layout=compact" alt="gautambisoi" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gautambisoi&show_icons=true&locale=en" alt="gautambisoi" /></p>
 
 <!---
 GAUTAMBISOI/GAUTAMBISOI is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
