@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **gautambisoi7906@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1GlqeAuMoHsKuZY_i_huc3SccBiC5LRUn/view?usp=drive_link)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1GlqeAuMoHsKuZY_i_huc3SccBiC5LRUn/view?usp=drive_link_notValid)
 
 - ⚡ Fun fact **I think i am cool.**
 
